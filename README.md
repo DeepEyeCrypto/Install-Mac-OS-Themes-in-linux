@@ -20,3 +20,4 @@ Configure automatic dock startup
 
 Apply macOS-style wallpaper
 
+https://github.com/DeepEyeCrypto/Install-Mac-OS-Themes-in-linux/raw/refs/heads/main/install-macos-theme.sh
